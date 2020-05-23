@@ -10,3 +10,12 @@ header{
     height: 100vh;
     width: 100%;
 }
+.vid-intro{
+	height: 500px;
+	width: auto;
+}
+p{
+	color: #fff;
+	font-size: 20px;
+	margin-left: 400px;
+}
